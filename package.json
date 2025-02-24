@@ -1,0 +1,10 @@
+{
+  "name": "vibe-coder-mcp",
+  "version": "0.1.0",
+  "description": " Vibe-Coder-MCP server extends AI assistants with specialized software development tools.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
